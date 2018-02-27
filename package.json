@@ -40,11 +40,11 @@
     "css-mediaquery": "^0.1.2",
     "css-tree": "1.0.0-alpha.27",
     "debug": "^3.1.0",
-    "jest": "^22.1.4",
     "jsesc": "^1.0.0",
     "puppeteer": "^1.1.0"
   },
   "devDependencies": {
+    "jest": "^22.1.4",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
