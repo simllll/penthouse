@@ -39,8 +39,7 @@
     "css-mediaquery": "^0.1.2",
     "css-tree": "1.0.0-alpha.28",
     "debug": "^4.1.1",
-    "jsesc": "^2.5.2",
-    "puppeteer": "^1.14.0"
+    "jsesc": "^2.5.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
